@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application_Clase3</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="universidad">UNIVERSIDAD</string>
+
+
+</resources>
